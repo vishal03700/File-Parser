@@ -1,0 +1,11 @@
+Error listing files: no such table: file_parser_app_uploadedfile
+Error listing files: no such table: file_parser_app_uploadedfile
+File uploaded successfully: sample.csv
+Starting to parse file: sample.csv
+Successfully parsed file: sample.csv
+File uploaded successfully: mvc.pdf
+Starting to parse file: mvc.pdf
+Successfully parsed file: mvc.pdf
+File uploaded successfully: f.pdf
+Starting to parse file: f.pdf
+Successfully parsed file: f.pdf
